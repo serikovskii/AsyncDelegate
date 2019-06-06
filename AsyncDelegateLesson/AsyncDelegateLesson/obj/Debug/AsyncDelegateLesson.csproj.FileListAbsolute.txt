@@ -1,0 +1,7 @@
+C:\Users\мукушева\source\repos\AsyncDelegateLesson\AsyncDelegateLesson\bin\Debug\AsyncDelegateLesson.exe.config
+C:\Users\мукушева\source\repos\AsyncDelegateLesson\AsyncDelegateLesson\bin\Debug\AsyncDelegateLesson.exe
+C:\Users\мукушева\source\repos\AsyncDelegateLesson\AsyncDelegateLesson\bin\Debug\AsyncDelegateLesson.pdb
+C:\Users\мукушева\source\repos\AsyncDelegateLesson\AsyncDelegateLesson\obj\Debug\AsyncDelegateLesson.csprojAssemblyReference.cache
+C:\Users\мукушева\source\repos\AsyncDelegateLesson\AsyncDelegateLesson\obj\Debug\AsyncDelegateLesson.csproj.CoreCompileInputs.cache
+C:\Users\мукушева\source\repos\AsyncDelegateLesson\AsyncDelegateLesson\obj\Debug\AsyncDelegateLesson.exe
+C:\Users\мукушева\source\repos\AsyncDelegateLesson\AsyncDelegateLesson\obj\Debug\AsyncDelegateLesson.pdb
